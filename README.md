@@ -38,3 +38,8 @@ Le jeu de données se compose de 5 fichiers csv :
 - Effectuer une analyse univariée et des représentations graphiques avec une librairie
 - Maîtriser les opérations fondamentales du langage Python pour la Data Science
 - Manipuler des données avec des librairies Python spécialisées
+
+# Livrables
+
+- Un Jupyter Notebook comportant les analyses pré-exploratoires réalisées.
+- Un support de présentation pour la soutenance.
