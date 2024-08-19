@@ -1,5 +1,4 @@
 # OC-P2 : Analyser-des-donnees-de-systemes-educatifs
-Analysez des données de systèmes éducatifs
 
 Pour ce projet, je suis data Scientist pour une startup de la EdTech, nommé **Academy**. C’est une start-up qui propose du contenu de formation en ligne niveau lycée et supérieur. 
 
